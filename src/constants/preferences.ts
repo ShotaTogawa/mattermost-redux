@@ -68,7 +68,7 @@ const Preferences: Dictionary<any> = {
       buttonBg: '#26a970',
       buttonColor: '#ffffff',
       errorTextColor: '#fd5960',
-      mentionHighlightBg: '#e46651',
+      mentionHighlightBg: '#FAE9BB',
       mentionHighlightLink: '#2f81b7',
       codeTheme: 'github',
     } as Theme,
